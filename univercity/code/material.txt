@@ -1,0 +1,7 @@
+INSERT INTO `material` (`material_id`, `material_name`,`stud_name`,`teacher_name`) VALUES
+(1, 'Database','Asma Alhuraiby','Ameera'),
+(2, 'Database','Hadeel Alqutaby','Ameera'),
+(3, 'PHP','Asma Alhuraiby','Muhammed'),
+(4, 'PHP','Hadeel Alqutaby','Muhammed'),
+(5, 'Dental Tool','Fatima','Anas'),
+(6, 'Mathmatical','Mukhtar','Ali');

@@ -1,0 +1,4 @@
+INSERT INTO `college` (`college_id`, `college_name`) VALUES
+(1, 'Computing'),
+(2, 'Dental'),
+(3, 'Business');

@@ -1,0 +1,5 @@
+INSERT INTO `teacher` (`teacher_id`, `teacher_name`,`email`, `identity_no`,`college_name`, `major`) VALUES
+(1, 'Ameera Aladimy', 'ameera@gmail.com', '00105652624','Computing','CS'),
+(2, 'Mohammed Alshaibany','mohammed@gmail.com', '00100764654','Computing','CS'),
+(3, 'Anas Shamlah', 'anas@gmail.com','00100874987','Dental','Dental'),
+(4, 'Ali Alsaadee','ali@gmail.com', '001009247','Business','Business_Man');

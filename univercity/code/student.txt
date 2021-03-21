@@ -1,0 +1,5 @@
+INSERT INTO `student` (`stud_id`, `stud_name`, `sex`, `nationality`, `secondary_rate`, `identity_no`,`college_name`, `major`) VALUES
+(1, 'Asma Alhuraiby', 'Male', 'Yemen', 92, '00100052624','Computing','IT'),
+(2, 'Hadeel Alqtaby', 'Male', 'Yemen', 85, '00100087654','Computing','IS'),
+(3, 'Fatima Alhuraiby', 'Male', 'Yemen', 87, '00100052987','Dental','Dental')
+(4, 'Mukhtar Alhuraiby', 'Female', 'Yemen', 87, '00100043987','Business','Business_Man');
